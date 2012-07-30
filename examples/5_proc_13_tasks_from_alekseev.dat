@@ -1,0 +1,189 @@
+{
+    "__class__": "Schedule", 
+    "__module__": "common", 
+    "processors": [
+        {
+            "__class__": "Processor", 
+            "id": 1, 
+            "taskIds": []
+        }, 
+        {
+            "__class__": "Processor", 
+            "id": 2, 
+            "taskIds": []
+        }, 
+        {
+            "__class__": "Processor", 
+            "id": 3, 
+            "taskIds": []
+        }, 
+        {
+            "__class__": "Processor", 
+            "id": 4, 
+            "taskIds": []
+        }, 
+        {
+            "__class__": "Processor", 
+            "id": 5, 
+            "taskIds": []
+        }
+    ], 
+    "tasks": [
+        {
+            "__class__": "Task", 
+            "__module__": "common", 
+            "id": 1, 
+            "processorIdToResource": {
+                "1": 2, 
+                "2": 7, 
+                "3": 4, 
+                "4": 5, 
+                "5": 7
+            }
+        }, 
+        {
+            "__class__": "Task", 
+            "__module__": "common", 
+            "id": 2, 
+            "processorIdToResource": {
+                "1": 1, 
+                "2": 7, 
+                "3": 3, 
+                "4": 5, 
+                "5": 4
+            }
+        }, 
+        {
+            "__class__": "Task", 
+            "__module__": "common", 
+            "id": 3, 
+            "processorIdToResource": {
+                "1": 3, 
+                "2": 7, 
+                "3": 7, 
+                "4": 5, 
+                "5": 6
+            }
+        }, 
+        {
+            "__class__": "Task", 
+            "__module__": "common", 
+            "id": 4, 
+            "processorIdToResource": {
+                "1": 2, 
+                "2": 4, 
+                "3": 4, 
+                "4": 8, 
+                "5": 5
+            }
+        }, 
+        {
+            "__class__": "Task", 
+            "__module__": "common", 
+            "id": 5, 
+            "processorIdToResource": {
+                "1": 2, 
+                "2": 7, 
+                "3": 4, 
+                "4": 4, 
+                "5": 5
+            }
+        }, 
+        {
+            "__class__": "Task", 
+            "__module__": "common", 
+            "id": 6, 
+            "processorIdToResource": {
+                "1": 3, 
+                "2": 3, 
+                "3": 7, 
+                "4": 4, 
+                "5": 9
+            }
+        }, 
+        {
+            "__class__": "Task", 
+            "__module__": "common", 
+            "id": 7, 
+            "processorIdToResource": {
+                "1": 7, 
+                "2": 1, 
+                "3": 8, 
+                "4": 3, 
+                "5": 2
+            }
+        }, 
+        {
+            "__class__": "Task", 
+            "__module__": "common", 
+            "id": 8, 
+            "processorIdToResource": {
+                "1": 7, 
+                "2": 2, 
+                "3": 7, 
+                "4": 4, 
+                "5": 3
+            }
+        }, 
+        {
+            "__class__": "Task", 
+            "__module__": "common", 
+            "id": 9, 
+            "processorIdToResource": {
+                "1": 3, 
+                "2": 4, 
+                "3": 9, 
+                "4": 5, 
+                "5": 6
+            }
+        }, 
+        {
+            "__class__": "Task", 
+            "__module__": "common", 
+            "id": 10, 
+            "processorIdToResource": {
+                "1": 4, 
+                "2": 5, 
+                "3": 7, 
+                "4": 3, 
+                "5": 2
+            }
+        }, 
+        {
+            "__class__": "Task", 
+            "__module__": "common", 
+            "id": 11, 
+            "processorIdToResource": {
+                "1": 2, 
+                "2": 3, 
+                "3": 4, 
+                "4": 6, 
+                "5": 4
+            }
+        }, 
+        {
+            "__class__": "Task", 
+            "__module__": "common", 
+            "id": 12, 
+            "processorIdToResource": {
+                "1": 1, 
+                "2": 2, 
+                "3": 2, 
+                "4": 3, 
+                "5": 1
+            }
+        }, 
+        {
+            "__class__": "Task", 
+            "__module__": "common", 
+            "id": 13, 
+            "processorIdToResource": {
+                "1": 3, 
+                "2": 6, 
+                "3": 2, 
+                "4": 2, 
+                "5": 2
+            }
+        }
+    ]
+}

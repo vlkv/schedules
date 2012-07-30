@@ -1,0 +1,14 @@
+#Sat Oct 29 11:01:37 MSD 2011
+eclipse.preferences.version=1
+encoding//src/algorithm.py=utf-8
+encoding//src/common.py=utf-8
+encoding//src/errors.py=utf-8
+encoding//src/gui/mainwindow.py=utf-8
+encoding//src/gui/widgets.py=utf-8
+encoding//src/helpers.py=utf-8
+encoding//src/main.py=utf-8
+encoding//src/serializer.py=utf-8
+encoding//src/tablemodels.py=utf-8
+encoding//src/ui/ui_aboutthisprogramdialog.py=utf-8
+encoding//src/ui/ui_mainwindow.py=utf-8
+encoding//src/ui/ui_schedulewidget.py=utf-8

@@ -1,0 +1,63 @@
+{
+    "__class__": "Schedule", 
+    "__module__": "common", 
+    "processors": [
+        {
+            "__class__": "Processor", 
+            "id": 1, 
+            "taskIds": []
+        }, 
+        {
+            "__class__": "Processor", 
+            "id": 2, 
+            "taskIds": []
+        }
+    ], 
+    "tasks": [
+        {
+            "__class__": "Task", 
+            "__module__": "common", 
+            "id": 1, 
+            "processorIdToResource": {
+                "1": 22, 
+                "2": 34
+            }
+        }, 
+        {
+            "__class__": "Task", 
+            "__module__": "common", 
+            "id": 2, 
+            "processorIdToResource": {
+                "1": 21, 
+                "2": 36
+            }
+        }, 
+        {
+            "__class__": "Task", 
+            "__module__": "common", 
+            "id": 3, 
+            "processorIdToResource": {
+                "1": 36, 
+                "2": 25
+            }
+        }, 
+        {
+            "__class__": "Task", 
+            "__module__": "common", 
+            "id": 4, 
+            "processorIdToResource": {
+                "1": 27, 
+                "2": 27
+            }
+        }, 
+        {
+            "__class__": "Task", 
+            "__module__": "common", 
+            "id": 5, 
+            "processorIdToResource": {
+                "1": 25, 
+                "2": 32
+            }
+        }
+    ]
+}
